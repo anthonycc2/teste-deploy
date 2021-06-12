@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "teste-deploy"
+  "defaultProject": "teste-deploy",
+  "cli": {
+    "analytics": "24a40394-fd8e-4a75-ac4b-d28c38582c4b"
+  }
 }
